@@ -1,0 +1,11 @@
+% This is the data from our homework 12
+@relation kmeans
+@attribute x real
+@attribute y real
+@attribute quality  {bad, good}
+@data
+0.9,0.8,bad
+0.2,0.2,bad
+0.7,0.6,bad
+-0.1,-0.6,good
+0.5,0.5,good
